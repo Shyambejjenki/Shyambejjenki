@@ -1,19 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there+👋,+I'm+Shyam+Bejjenki;I+love+to+code+and+learn!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Shyam</h1>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Hi+there+👋,+I'm+Shyam+Bejjenki;A+Passionate+Developer+and+AIML+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Shyam Bejjenki</h1>
 <h3 align="center">Aspiring Developer | AIML Enthusiast | Open Source Learner</h3>
-
-
-- 🔭 I’m currently working on **Java basic projects**
-- 🌱 I’m currently learning **DSAwithJAVA,Python,AIML**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python,JAVA**
-- 📫 How to reach me: **shyamreddy5528@gmail.com**
-- ⚡ Fun fact: *I can debug without looking (just kidding 😄)*
 
 ---
 
-### 🛠️ Languages:
+## 🚀 About Me
+- 🔭 **Currently working on:** Java Basic Projects  
+- 🌱 **Learning:** DSA with Java, Python, AI & ML  
+- 👯 **Looking to collaborate on:** Open-source projects  
+- 💬 **Ask me about:** Python, Java  
+- 📫 **Reach me at:** `shyamreddy5528@gmail.com`  
+- ⚡ **Fun fact:** I can debug without looking (just kidding 😄)  
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,10 +28,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
-
-### ⚒️ Tools & Technologies:
-
+### 🛠 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -35,30 +38,35 @@
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shyambejjenki&show_icons=true&theme=radical" alt="Vinay's stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyambejjenki&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shyambejjenki&show_icons=true&theme=radical&hide_border=true" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyambejjenki&theme=radical&hide_border=true" height="165px"/>
 </p>
+
 ---
 
-### 🏆 GitHub Trophies:
-
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shyambejjenki&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shyambejjenki&theme=radical&no-frame=true&margin-w=10&row=1&column=6"/>
 </p>
 
-### 📈 Contribution Graph:
+---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyambejjenki&theme=react-dark)
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shyambejjenki&theme=react-dark&hide_border=true)
 
+---
 
-
-
-
-### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-kumar-korakoppula-1503b3287/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://vinay-1103.github.io/Portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-000?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1cWTiyj5DOdvWUMaRiUPduqYAU8olu_r8/view?usp=drive_link)
-
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/shyambejjenki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shyambejjenki.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/your-resume-id/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
