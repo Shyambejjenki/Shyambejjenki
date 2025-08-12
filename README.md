@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there+👋,+I'm+Vinay+Kumar;I+love+to+code+and+learn!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+there+👋,+I'm+Shyam+Bejjenki;I+love+to+code+and+learn!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">Aspiring Developer | AIML Enthusiast | Open Source Learner</h3>
 
