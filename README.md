@@ -1,7 +1,8 @@
 <!-- Profile Layout -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Profile Photo -->
-    <img src="your-photo-link" alt="Shyam Bejjenki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px #00F7FF;">
+    <img src="<img width="1240" height="480" alt="image" src="https://github.com/user-attachments/assets/0eae2521-188f-4322-9821-bc93d4512f3c" />
+" alt="Shyam Bejjenki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px #00F7FF;">
     
     <!-- Intro Text -->
     <div align="center">
@@ -34,7 +35,7 @@
 ## 🛠 Tech Stack  
 
 **Languages**  
-![C](https://img.shields.io/badge/C-0A1A2F?style=for-the-badge&logo=c&logoColor=00F7FF)
+
 ![Python](https://img.shields.io/badge/Python-0A1A2F?style=for-the-badge&logo=python&logoColor=00F7FF)
 ![Java](https://img.shields.io/badge/Java-0A1A2F?style=for-the-badge&logo=java&logoColor=00F7FF)
 ![HTML5](https://img.shields.io/badge/HTML5-0A1A2F?style=for-the-badge&logo=html5&logoColor=00F7FF)
