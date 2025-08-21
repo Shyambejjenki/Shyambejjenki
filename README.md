@@ -1,21 +1,22 @@
 <!-- Profile Layout -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Profile Photo -->
-    <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1761177600&v=beta&t=O3S_ho2LvsHHbqh5Drl8pc0Q1aLPQV4tdju8HHiYKoM" />
-" alt="Shyam Bejjenki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px #00F7FF;">
     
-    <!-- Intro Text -->
-    <div align="center">
+    <!-- Profile Photo (Aligned Left) -->
+    <div style="flex: 1; display: flex; justify-content: flex-start;">
+        <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1761177600&v=beta&t=O3S_ho2LvsHHbqh5Drl8pc0Q1aLPQV4tdju8HHiYKoM" 
+             alt="Shyam Bejjenki" 
+             width="150" 
+             style="border-radius: 50%; box-shadow: 0 0 10px #00F7FF;">
+    </div>
+    
+    <!-- Intro Text (Centered) -->
+    <div style="flex: 2; text-align: center;">
         <h1>Hi 👋, I'm Shyam Bejjenki</h1>
         <h3>Aspiring Developer | AIML Enthusiast | Open Source Learner</h3>
         <p><em>"Always curious, always building."</em></p>
     </div>
 </div>
 
----
-
-<!-- About Me Section -->
-<div align="center">
 
 ## 👨‍💻 About Me  
 🔭 **Currently Working On:** Java Basic Projects  
