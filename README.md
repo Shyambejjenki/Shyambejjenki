@@ -1,7 +1,7 @@
 <!-- Profile Layout -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <!-- Profile Photo -->
-    <img src="<img width="1240" height="480" alt="image" src="https://github.com/user-attachments/assets/0eae2521-188f-4322-9821-bc93d4512f3c" />
+    <img src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=1761177600&v=beta&t=O3S_ho2LvsHHbqh5Drl8pc0Q1aLPQV4tdju8HHiYKoM" />
 " alt="Shyam Bejjenki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px #00F7FF;">
     
     <!-- Intro Text -->
