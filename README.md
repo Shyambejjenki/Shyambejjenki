@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Aspiring Developer | 🤖 AIML Enthusiast | 🌱 Open Source Learner | 🔧 Always curious, always building</h3>
 
     
-<img align="right" src="https://github.com/Shyambejjenki/Shyambejjenki/blob/main/f5.gif" alt="Profile Demo" width="200"/>
+<img align="right" src="https://github.com/Shyambejjenki/Shyambejjenki/blob/main/f5.gif" alt="Profile Demo" width="600" height="300"/>
 
 
 
